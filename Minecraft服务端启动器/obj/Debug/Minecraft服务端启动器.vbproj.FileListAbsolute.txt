@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\bin\Debug\Minecraft服务端启动器.exe.config
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\bin\Debug\Minecraft服务端启动器.exe
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\bin\Debug\Minecraft服务端启动器.pdb
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\bin\Debug\Minecraft服务端启动器.xml
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.Form1.resources
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.Resources.resources
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.exe
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.xml
+C:\Users\Administrator\source\repos\Minecraft服务端启动器\Minecraft服务端启动器\obj\Debug\Minecraft服务端启动器.pdb
